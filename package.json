@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "gulp",
     "styleguide": "kss --config kss-config.json",
-    "prepublish ": "echo \"I RAN AFTER YOU INSTALLED ME!\" && exit 1"
+    "prepublish ": "echo \"I RAN AFTER YOU INSTALLED ME!\""
   },
   "author": "",
   "license": "ISC",
